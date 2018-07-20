@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "fast-json-parse": "^1.0.3",
+    "hypercore": "^6.18.0",
+    "hyperdiscovery": "^8.0.0",
+    "uws": "^10.148.1"
+  },
+  "devDependencies": {
+    "hypertail": "^1.0.4",
+    "random-access-memory": "^3.0.0"
+  }
+}
