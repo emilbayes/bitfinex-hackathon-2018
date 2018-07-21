@@ -5,16 +5,16 @@ Talk about the hyper ecosystem of modules
 # Mentioned projects
 
 ## Core modules
-* hypercore
-* hyperdiscovery
-* hyperdb
+* [hypercore](https://github.com/mafintosh/hypercore)
+* [hyperdiscovery](https://github.com/karissa/hyperdiscovery)
+* [hyperdb](https://github.com/mafintosh/hyperdb)
 
 ## Applications
-* hyperpipe
-* hyperclock
-* hypervision
-* cabal
-* hyperdrive
+* [hyperpipe](https://github.com/mafintosh/hyperpipe)
+* [hyperclock](https://github.com/mafintosh/hyperclock)
+* [hypervision](https://github.com/mafintosh/hypervision)
+* [cabal](https://github.com/cabal-club/cabal)
+* [hyperdrive](https://github.com/mafintosh/hyperdrive)
 * hypercore-dag
 * hypertrie
 * append-tree
